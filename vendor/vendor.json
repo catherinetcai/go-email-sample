@@ -1,0 +1,121 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Iclh0GdHj7S5xsHGx0r9EYhhr+c=",
+			"path": "github.com/bytbox/go-pop3",
+			"revision": "3046caf0763e93d409893da161b8ba288caf461f",
+			"revisionTime": "2012-02-01T22:22:08Z"
+		},
+		{
+			"checksumSHA1": "6pwrbIx6xPzzoEYyUt4A8fNnlFE=",
+			"path": "github.com/emersion/go-imap",
+			"revision": "0109e79db691ad6f173063541188440234114a8d",
+			"revisionTime": "2017-08-21T15:36:52Z"
+		},
+		{
+			"checksumSHA1": "AxID5Sj31cHpA6OLNDkNr1q7qY8=",
+			"path": "github.com/emersion/go-imap/client",
+			"revision": "0109e79db691ad6f173063541188440234114a8d",
+			"revisionTime": "2017-08-21T15:36:52Z"
+		},
+		{
+			"checksumSHA1": "wde0qFifzqtykahBv4lV4DugBv0=",
+			"path": "github.com/emersion/go-imap/commands",
+			"revision": "0109e79db691ad6f173063541188440234114a8d",
+			"revisionTime": "2017-08-21T15:36:52Z"
+		},
+		{
+			"checksumSHA1": "UqRDk6nnZbvmpXGUkv++DTrOKLo=",
+			"path": "github.com/emersion/go-imap/responses",
+			"revision": "0109e79db691ad6f173063541188440234114a8d",
+			"revisionTime": "2017-08-21T15:36:52Z"
+		},
+		{
+			"checksumSHA1": "amlreC2ipsJGEyOcVKK7qub+Wz8=",
+			"path": "github.com/emersion/go-imap/utf7",
+			"revision": "0109e79db691ad6f173063541188440234114a8d",
+			"revisionTime": "2017-08-21T15:36:52Z"
+		},
+		{
+			"checksumSHA1": "/GPUK+D/iEVrbRGubwi8hvTyiSs=",
+			"path": "github.com/emersion/go-message",
+			"revision": "901dbfdd5a446027b95ca83bba1561227ef4541d",
+			"revisionTime": "2017-09-18T15:12:15Z"
+		},
+		{
+			"checksumSHA1": "vYwCylKml89fpYlAdLHYE0KOD/A=",
+			"path": "github.com/emersion/go-message/charset",
+			"revision": "901dbfdd5a446027b95ca83bba1561227ef4541d",
+			"revisionTime": "2017-09-18T15:12:15Z"
+		},
+		{
+			"checksumSHA1": "fL6dpcMwiaY333Xq2Jmw9CZTeBk=",
+			"path": "github.com/emersion/go-message/mail",
+			"revision": "901dbfdd5a446027b95ca83bba1561227ef4541d",
+			"revisionTime": "2017-09-18T15:12:15Z"
+		},
+		{
+			"checksumSHA1": "VGdrJ5SV27dfTYVafzkH03uotLA=",
+			"path": "github.com/emersion/go-sasl",
+			"revision": "7e096a0a6197b89989e8cc31016daa67c8c62051",
+			"revisionTime": "2016-11-16T18:30:48Z"
+		},
+		{
+			"checksumSHA1": "BX9blgbaHp0hnLTAxqNwVZgWra4=",
+			"path": "github.com/emersion/go-textwrapper",
+			"revision": "d0e65e56babe3f687ff94c1d764ca0e6aa7723ee",
+			"revisionTime": "2016-06-06T18:21:33Z"
+		},
+		{
+			"checksumSHA1": "Mr4ur60bgQJnQFfJY0dGtwWwMPE=",
+			"path": "golang.org/x/text/encoding",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "DSdlK4MKI/a3U8Zaee2XKBe01Fo=",
+			"path": "golang.org/x/text/encoding/charmap",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "zeHyHebIZl1tGuwGllIhjfci+wI=",
+			"path": "golang.org/x/text/encoding/internal",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "7kYqxy64WhMjFIFZgN7tJ3lbKxM=",
+			"path": "golang.org/x/text/encoding/internal/identifier",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "2YqVpmvjWGEBATyUphTP1MS34JE=",
+			"path": "golang.org/x/text/encoding/japanese",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "mTuZi5urYwgDIO8+Gfql2pv8Vwg=",
+			"path": "golang.org/x/text/encoding/simplifiedchinese",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "D+VI4j0Wjzr8SeupWdOB5KBdFOw=",
+			"path": "golang.org/x/text/encoding/traditionalchinese",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"path": "golang.org/x/text/transform",
+			"revision": "1cbadb444a806fd9430d14ad08967ed91da4fa0a",
+			"revisionTime": "2017-09-13T19:45:57Z"
+		}
+	],
+	"rootPath": "github.com/catherinetcai/email"
+}
